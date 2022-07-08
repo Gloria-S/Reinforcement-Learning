@@ -1,4 +1,4 @@
-# Reinforcement-Learning悬崖行走cliff walking任务
+# 强化学习 悬崖行走cliff walking任务
 任务说明：\
 cliff walking场地大小为4*12，起点位于左下角，悬崖位于最低一排，终点位于右下角。\
 动作0：往上走，动作1：往右走，动作2：往下走，动作3：往左走。\
